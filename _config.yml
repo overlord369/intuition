@@ -21,9 +21,9 @@ description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "/libretto" # the subpath of your site, e.g. /blog
 url: "https://ferrolho.github.io" # the base hostname & protocol for your site
-github_username:    jekyll
+github_username:    overlord369
 instagram_username: overlord369
-twitter_username:   jekyllrb
+twitter_username:   overlord369
 
 # Build settings
 markdown: kramdown
