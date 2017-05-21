@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 If the left-hemisphere brain goes on dominating you, you will live a very successful life -- so successful 
 that by the time you are forty you will have ulcers; by the time you are forty-five you will have had at least 
@@ -13,4 +13,4 @@ we call a GRUSTHA, a householder.
 The right-hemisphere brain is the orientation of the SANNYASIN. one who is more interested in his 
 own inner being, his inner peace, his blissfulness, and is less concerned about things. If they come easily, 
 good; if they don't come that is also good. He is more concerned with the moment, less concerned with the 
-future; more concerned with the poetry of life, less concerned with the arithmetic of it. 
+future; more concerned with the poetry of life, less concerned with the arithmetic of it.
