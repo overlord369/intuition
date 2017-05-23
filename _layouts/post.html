@@ -36,14 +36,17 @@ layout: default
 	</div>
 </div>
 
-<aside class="social-share">
-    <h2>Share this:</h2>
-
-    <ul>
-        <li class="twitter"><a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}{% if page.description %}&text={{ page.description | url_escape }}{% else %}{{ page.title | url_escape }}{% endif %}{% if site.twitter %}&via={{ site.twitter }}{% endif %}" title="Share on Twitter">Twitter</a></li>
-
-        <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}{% if page.description %}&t={{ page.description | url_escape }}{% else %}{{ page.title | url_escape }}{% endif %}" title="Share on Facebook">Facebook</a></li>
-
-        <li class="googleplus"><a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google Plus">Google+</a></li>
-    </ul>
-</aside>
+<div class="custom-social-buttons">		
+	<div class="share-buttons-label">
+		<span>Tell your friends</span>
+	</div>
+	<div class="custom-social-button twitter">
+		<a id="twitter-link" href="#"><i class="socicon-twitter-bird"></i></a>
+	</div>
+	<div class="custom-social-button linkedin">
+		<a id="linkedin-link" href="#"><i class="socicon-linkedin"></i></a>
+	</div>
+	<div class="custom-social-button googleplus">
+		<a id="googleplus-link" href="#"><i class="socicon-gplus"></i></a>
+	</div>
+</div>
