@@ -1,5 +1,9 @@
 ---
 published: true
+layout: articleDetail
+title: How to Make Custom Share Buttons with Jekyll
+date: June 30, 2014
+dateShort: "2014-06-30"
 ---
 If the left-hemisphere brain goes on dominating you, you will live a very successful life -- so successful 
 that by the time you are forty you will have ulcers; by the time you are forty-five you will have had at least 
