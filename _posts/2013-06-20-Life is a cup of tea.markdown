@@ -2,9 +2,9 @@
 published: true
 ---
 
-A man was sitting with his friend in a cafeteria drinking tea. He studied his cup and said with a sigh, 'Ah, my friend, life is like a cup of tea.'
+A man was sitting with his friend in a cafeteria drinking tea. He studied his cup and said with a sigh, _'Ah, my friend, life is like a cup of tea.'_
 
-The other considered that for a moment and then said, 'But why? Why is life like a cup of tea?' 
+The other considered that for a moment and then said, _'But why? Why is life like a cup of tea?'_
 
 > **The first man replied, 'How should I know? Am I a philosopher?'**
 
