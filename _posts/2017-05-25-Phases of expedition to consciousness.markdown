@@ -4,7 +4,7 @@ published: true
 There is something significant about the age of thirty, or near-about. Gautam Buddha left his palace when he was twenty-nine years old. 
 Jesus started his teachings when he was thirty years old; Zarathustra went into the mountains when he was thirty years old.
 	
-  Just as at the age of fourteen, one becomes sexually mature. If we take life as it has been taken traditionally, that it consists of seventy years... those who have watched life very deeply have found that every seven years, there is a change, a turning. 
+&nbspJust as at the age of fourteen, one becomes sexually mature. If we take life as it has been taken traditionally, that it consists of seventy years... those who have watched life very deeply have found that every seven years, there is a change, a turning. 
 
   The first seven years are innocent. The second seven years, the child is very much interested in enquiring, in questioning – curiosity. 
  
