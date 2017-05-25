@@ -6,8 +6,7 @@ Gautam Buddha left his palace when he was twenty-nine years old.
 Jesus started his teachings when he was thirty years old; Zarathustra went into the mountains when he was thirty years old.
 
 > There is something significant about the age of thirty, or near-about.
-	
-   Just as at the age of fourteen, one becomes sexually mature. If we take life as it has been taken traditionally, that it consists of seventy years... those who have watched life very deeply have found that every seven years, there is a change, a turning.
+	Just as at the age of fourteen, one becomes sexually mature. If we take life as it has been taken traditionally, that it consists of seventy years... those who have watched life very deeply have found that every seven years, there is a change, a turning.
     
 	The first seven years are innocent. The second seven years, the child is very much interested in enquiring, in questioning – curiosity. After the fourteenth up to the twenty-first year, he has the most powerful sexuality. The highest peak of sexuality, you will be surprised to know, is near-about eighteen or nineteen years. And humanity has been trying to avoid that period by providing educational programs, colleges, universities – keeping boys and girls apart. That is the time when their sexuality and their sexual energy is at the highest point.
 	In those seven years, from fourteen to twenty-one, they could have experienced sexual orgasm very easily. Sexual orgasm is a glimpse which can create in you the urge to find more blissful spaces, because in sexual orgasm two things disappear: your ego disappears, your mind disappears, and time stops – just for a few seconds.
