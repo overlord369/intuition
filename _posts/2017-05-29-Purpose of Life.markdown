@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Life is like love, life is like happiness. Life is existence - no goal. And once you can understand this your ways of living will change totally, because if there is no purpose in life itself there is no need to create a purpose for your individual life also - no need. Because of individual purposes you become tense, something has to be achieved. Then an achieving mind is created which is always trying to achieve something or other. And whenever something is achieved again the mind asks, "Now what?
 
@@ -18,4 +18,3 @@ Only a nonachieving mind can be at peace. But a nonachieving mind is possible on
 Life has got no purpose and this is the beauty of it. If there was some purpose life would have been mean - just futile. It is not a business, it is a play. In India we have been calling it leela. Leela means a cosmic play... as if God is playing. Energy overflowing, not for some purpose, just enjoying itself; just a small child playing - for what purpose? Running after butterflies, collecting colored stones on the beach, dancing under the sun, running under the trees, collecting flowers - for what purpose?
 
 Ask a child. He will look at you as if you are a fool. There is no need for purpose.
-
