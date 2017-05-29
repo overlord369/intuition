@@ -18,3 +18,15 @@ Only a nonachieving mind can be at peace. But a nonachieving mind is possible on
 Life has got no purpose and this is the beauty of it. If there was some purpose life would have been mean - just futile. It is not a business, it is a play. In India we have been calling it leela. Leela means a cosmic play... as if God is playing. Energy overflowing, not for some purpose, just enjoying itself; just a small child playing - for what purpose? Running after butterflies, collecting colored stones on the beach, dancing under the sun, running under the trees, collecting flowers - for what purpose?
 
 Ask a child. He will look at you as if you are a fool. There is no need for purpose.
+
+When you don't need any purpose you simply celebrate your being. You feel gratitude just that you are, just that you breathe. It is such a blessing that you can breathe, that you are alert, conscious, alive, aflame. Is it not enough? Do you need something to achieve so that you can feel good, so that you can feel valued, so that you can feel life is justified? What more can you achieve than what you are? What more can be added to your life? What more can you add to it? Nothing can be added, and the effort will destroy you - the effort to add something.
+
+But for many centuries all over the world they have been teaching every child to be purposive. "Don't waste your time! Don't waste your life!" And what do they mean? They mean, "Transform your life into a bank balance. When you die you must die rich. That is the purpose."
+
+Here in the East - particularly the mystics we are talking about, the Upanishads - they say, "Live richly." In the West they say, "Die a rich man." And these are totally different things. If you want to live richly you have to live here and now, not a single moment is to be lost. If you want to achieve something, you will die a rich man - but you will live a poor man, your life will be poor.
+
+Look at rich people: their life is absolutely poor, because they are wasting it transforming it into bank balances, changing their life into money, into big houses, big cars. Their whole effort is that life has to be changed for some things. When they die you can count their things.
+
+Buddha became a beggar. He was born a king, he became a beggar. Why? Just to live richly...
+
+because he came to understand that there are two ways to live: one is to die richly, the other is to live richly. And any man who has any understanding will choose to live richly, because dying a rich man doesn't mean anything; you simply wasted yourself for nothing. But this is possible only if you can conceive that the whole existence is purposeless; it is a cosmic play, a continuous beautiful game, a beautiful hide-and-seek - not leading anywhere. Nowhere is the goal.
